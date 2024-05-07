@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Configuraci\u00F3n local (.vs)",
+    "\\Configuraci\u00F3n local (.vs)\\pruebas_git_tiempo"
   ],
-  "SelectedNode": "\\about.html",
+  "SelectedNode": "\\node_modules",
   "PreviewInSolutionExplorer": false
 }
